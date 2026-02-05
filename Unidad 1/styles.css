@@ -1,0 +1,32 @@
+body {
+            background-color: #eeeeee;
+            font-family: Arial;
+            text-align: center;
+        }
+
+        h1 {
+            color: blue;
+            background-color: #d6eaff;
+        }
+
+        h2 {
+            color: green;
+        }
+
+        p {
+            color: black;
+            font-size: 16px;
+        }
+
+        ul {
+            list-style-type: square;
+        }
+
+        img {
+            width: 200px;
+            border: 2px solid black;
+        }
+
+        a {
+            color: red;
+        }
