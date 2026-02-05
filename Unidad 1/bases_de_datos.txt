@@ -1,0 +1,7 @@
+Relacionales (SQL): Organizan datos en tablas con filas y columnas, ideales para datos estructurados. Ejemplos: Oracle, MySQL, Microsoft SQL Server, PostgreSQL.
+
+No Relacionales (NoSQL): Utilizadas para grandes volúmenes de datos no estructurados o flexibles.
+
+En memoria: Almacenan datos en RAM para acceso ultrarrápido.
+
+Distribuidas: La información se almacena en múltiples ubicaciones, como el Blockchain. 
